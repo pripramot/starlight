@@ -1,2 +1,1 @@
-# starlight
-แสงดาว
+packages/starlight/README.md
